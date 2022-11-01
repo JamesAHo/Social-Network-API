@@ -42,5 +42,3 @@ Technologies used for this project are:
 - Moment
 - Nodemon
 
-## References
-vanessalane. (2020, September 26). social-media-api (1.0.0). Retrieved September 10, 2022, from https://github.com/vanessalane/social-media-api.
